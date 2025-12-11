@@ -1,15 +1,23 @@
 let now = new Date()
         console.log(now)
+
         now.getFullYear()
+        console.log(now)
+
         now.getMonth()
         console.log(now)
+
         now.getDate()
         console.log(now)
+
         now.getDay()
         console.log(now)
+
         now.getHours()
         console.log(now)
+
         now.getMinutes()
         console.log(now)
+
         now.getSeconds()
         console.log(now)
